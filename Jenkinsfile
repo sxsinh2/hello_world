@@ -16,7 +16,7 @@ pipeline {
     }
     stage('Shared Lib') {
          steps {
-             helloWorld("Jenkins")
+             helloWorld("Jenkins 2")
          }
       }
   }
